@@ -1,1 +1,2 @@
 # yardim
+master branch degistirildi
