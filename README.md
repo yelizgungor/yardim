@@ -1,1 +1,2 @@
 # yardim
+degistir
